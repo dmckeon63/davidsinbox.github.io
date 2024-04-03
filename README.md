@@ -6,7 +6,6 @@
 
 <title>davids inbox <3</title>
 
-
 <head>
 
     <body background="00969-swatch.jpg"></body>
