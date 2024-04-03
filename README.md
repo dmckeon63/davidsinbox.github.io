@@ -2,7 +2,7 @@
 
 <html>
 
-<head> <link rel="stylesheet" href="../../../resources/stylesheet.min.css">
+<head> <link rel=“stylesheet” type=“text/css” href=“styles.css”>.
 
 <title>davids inbox <3</title>
 
