@@ -1,1 +1,57 @@
+h1 {
+    color:whitesmoke
+}
+
+h1 {
+text-align: center;
+
+}
+
+h2 {
+    color:antiquewhite
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    position:relative;top: 50px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  img {
+    position:relative;top: -110px;
+    z-index: -1 ;
+
+  }
+
+  h4 {
+    text-align: center; text-decoration: wavy;
+  }
+  
+  h3 {
+    text-align: center; text-decoration: wavy;
+  }
+  
+  h3 {
+    color: lightblue 
+  }
+  
+  h3 {
+    position:relative;left: -250px; 
+  }
+  
+
+h3{
+ display: inline;   
+ 
+}
 
