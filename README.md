@@ -2,7 +2,7 @@
 
 <html>
 
-<head> <link rel="stylesheet" href="style.css" />
+<head> <link rel="stylesheet" type="text/css" href="css/main.css">
 
 <title>davids inbox <3</title>
 
